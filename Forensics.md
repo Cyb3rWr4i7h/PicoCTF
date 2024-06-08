@@ -165,3 +165,19 @@ Then in `secret` directory, there was an image named `Flag.png` which contained 
 
 ### Flag
 picoCTF{Hiddinng_An_imag3_within_@n_ima9e_ad9f6587}
+
+## extensions
+First I checked the file type using `file` command
+```bash
+file flag.txt
+```
+![extensions](Images/extensions.png)
+Since it's an image, I opened it using `nsxiv` command
+```bash
+nsxiv flag.txt
+```
+![extensions2](Images/extensions2.png)
+It contains the flag.
+
+### Flag
+picoCTF{now_you_know_about_extensions}
