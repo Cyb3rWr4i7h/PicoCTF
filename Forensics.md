@@ -8,7 +8,8 @@ exiftool cat.jpg
 ```
 It gave: 
   ![Information](Images/Information.png)
-Looking at its metadata, the `License` string looks different so I decoded it using        [Cyberchef](cyberchef.org)
+  
+Looking at its metadata, the `License` string looks different so I decoded it using [Cyberchef](cyberchef.org)
 Since its base64 encoded, we can also decode it using
 ```bash
 echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | basee64 -d
@@ -154,14 +155,19 @@ picoCTF{3nh4nc3d_24374675}
 ## hideme
 To investigate the image, I tried `binwalk` tool and I found that image had cmpressed data.
 ![hideme](Images/hideme.png)
+
 So, I decided to unzip it using `unzip` command
 ```bash
 unzip flag.png
 ```
 ![hideme2](Images/hideme2.png)
+
 Then in `secret` directory, there was an image named `Flag.png` which contained the flag.
+
 ![hideme3](Images/hideme3.png)
+
 ![hideme4](Images/hideme4.png)
+
 
 ### Flag
 picoCTF{Hiddinng_An_imag3_within_@n_ima9e_ad9f6587}
@@ -172,11 +178,13 @@ First I checked the file type using `file` command
 file flag.txt
 ```
 ![extensions](Images/extensions.png)
+
 Since it's an image, I opened it using `nsxiv` command
 ```bash
 nsxiv flag.txt
 ```
 ![extensions2](Images/extensions2.png)
+
 It contains the flag.
 
 ### Flag
