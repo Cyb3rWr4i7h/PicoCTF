@@ -1,4 +1,4 @@
-# Forensics
+![image](https://github.com/Cyb3rWr4i7h/PicoCTF/assets/170783459/87f1ec11-53b5-4957-8328-901185cfe86f)# Forensics
 [Link](https://play.picoctf.org/practice?category=4&page=1) for challenges
 
 ## Information
@@ -149,3 +149,19 @@ This displayed:
 Here I found the flag in the last few lines.
 ### Flag 
 picoCTF{3nh4nc3d_24374675}
+
+
+## hideme
+To investigate the image, I tried `binwalk` tool and I found that image had cmpressed data.
+![hideme](Images/hideme.png)
+So, I decided to unzip it using `unzip` command
+```bash
+unzip flag.png
+```
+![hideme2](Images/hideme2.png)
+Then in `secret` directory, there was an image named `Flag.png` which contained the flag.
+![hideme3](Images/hideme3.png)
+![hideme4](Images/hideme4.png)
+
+### Flag
+picoCTF{Hiddinng_An_imag3_within_@n_ima9e_ad9f6587}
