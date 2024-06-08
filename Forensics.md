@@ -7,7 +7,7 @@ To see the image's details, I decided to see the image's metadata using `exiftoo
 exiftool cat.jpg
 ```
 It gave: 
-  ![Information](Images/Information.jpg)
+  ![Information](Images/Information.png)
 Looking at its metadata, the `License` string looks different so I decoded it using        [Cyberchef](cyberchef.org)
 Since its base64 encoded, we can also decode it using
 ```bash
