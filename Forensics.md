@@ -1,4 +1,4 @@
-![image](https://github.com/Cyb3rWr4i7h/PicoCTF/assets/170783459/87f1ec11-53b5-4957-8328-901185cfe86f)# Forensics
+# Forensics
 [Link](https://play.picoctf.org/practice?category=4&page=1) for challenges
 
 ## Information
