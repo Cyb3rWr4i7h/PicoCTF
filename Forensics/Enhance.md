@@ -2,7 +2,7 @@
 [Link](https://play.picoctf.org/practice/challenge/265?category=4&page=1) for challenge
 Points: 100
 
-## Solutions
+## Solution
 
 Since I was given a svg file, I decided to view its content using 
 ```bash
