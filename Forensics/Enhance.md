@@ -3,7 +3,7 @@
 
 Points: 100
 
-## Solution
+## Writeup
 
 Since I was given a svg file, I decided to view its content using 
 ```bash
