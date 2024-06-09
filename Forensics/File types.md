@@ -3,5 +3,5 @@
 
 Points: 100
 
-## Solution
+## Writeup
 --TO BE ADDED--
