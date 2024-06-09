@@ -9,11 +9,11 @@ xxd tunn3l_v1s1on | head
 ```
 (`head` command will print only the first 10 lines. I used it since I only need to see the file headers which are present in the first line)
 This gave the output:
-![File Headers](Images/tunnel1.png)
+![File Headers](Images/tunnel3.png)
 
 Here, the file headers looked like that of a `BMP` file. So I did a google search and then I stumbled upon [this](https://www.photopea.com) website which could display such files.
 When I uploaded this file, I received:
-![tunnel2](Images/tunnel2.png)
+![tunnel2](Images/tunnel1.png)
 
 
 
