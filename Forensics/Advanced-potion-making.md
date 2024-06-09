@@ -1,5 +1,6 @@
 # advanced-potion-making
 [Link](https://play.picoctf.org/practice/challenge/205?category=4&page=1) for this challenge
+
 Points: 100
 
 ## Solution
