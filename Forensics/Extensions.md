@@ -3,7 +3,7 @@
 
 Points: 150
 
-## Solution
+## Writeup
 
 First I checked the file type using `file` command
 ```bash
