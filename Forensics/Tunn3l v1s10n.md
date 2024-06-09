@@ -3,7 +3,7 @@
 
 Points: 40
 
-## Solution
+## Writeup
 First I tried to see the filetype using `file` command but it didn't tell much so I used `xxd` tool to print the file headers
 ```bash
 xxd tunn3l_v1s1on | head
