@@ -1,5 +1,6 @@
 # Information
-[Link](https://play.picoctf.org/practice?category=4&page=1) for challenge
+[Link](https://play.picoctf.org/practice?category=4&page=1) for this challenge
+
 Points: 10
 
 ## Solution
