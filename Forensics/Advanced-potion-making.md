@@ -3,7 +3,7 @@
 
 Points: 100
 
-## Solution
+## Writeup
 First I checked the filetype using `file` command but it didn't tell much so I decided to check the headers of the file using `xxd` command.
 ```bash
 xxd advanced-potion-making | head
