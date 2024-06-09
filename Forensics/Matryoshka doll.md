@@ -3,7 +3,7 @@
 
 Points: 30
 
-## Solution
+## Writeup
 Reading the challenge description, I felt there might be other file in the given image so I used `binwalk` tool
 ![doll](Images/doll.png)
 
