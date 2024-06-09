@@ -1,5 +1,6 @@
 # Extensions
-[Link](https://play.picoctf.org/practice/challenge/52?category=4&page=3)
+[Link](https://play.picoctf.org/practice/challenge/52?category=4&page=3) for this challenge
+
 Points: 150
 
 ## Solution
