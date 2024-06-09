@@ -19,3 +19,7 @@ This gave out the flag.
 
 ## Flag
 picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
+
+## Extra
+-To know more about the `file` command, check out [this](https://www.man7.org/linux/man-pages/man1/file.1.html) man page
+-To know more about the `cat` command, check out [this](https://man7.org/linux/man-pages/man1/cat.1.html) man page
