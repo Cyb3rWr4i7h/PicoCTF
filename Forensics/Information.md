@@ -3,7 +3,7 @@
 
 Points: 10
 
-## Solution
+## Writeup
 To see the image's details, I decided to see the image's metadata using `exiftool` as:
 ```bash
 exiftool cat.jpg
