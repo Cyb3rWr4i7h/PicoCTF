@@ -3,7 +3,7 @@
 
 Points: 60
 
-## Solution
+## Writeup
 When I tried the `binwalk` command on `Forensics is fun.pptm`, I found out that it contains zipped data so I unzipped it using `unzip` command.
 ```bash
 unzip Forensics\ is\ fun.pptm 
