@@ -3,7 +3,7 @@
 
 Points: 100
 
-## Solution
+## Writeup
 
 To investigate the image, I tried `binwalk` tool and I found that image had cmpressed data.
 ![hideme](Images/hideme.png)
