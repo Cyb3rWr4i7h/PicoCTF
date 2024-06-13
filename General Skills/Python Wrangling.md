@@ -19,7 +19,7 @@ This gave:
 
 ![Wrangling1](Images/Wrangling1.png)
 
-Since the file I needef to decrypt is flag.txt.en, I ran this command:
+Since the file I needed to decrypt is flag.txt.en, I ran this command:
 ```bash
 python3 ende.py -d flag.txt.en
 ```
