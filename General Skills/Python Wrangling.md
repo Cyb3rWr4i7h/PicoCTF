@@ -17,7 +17,7 @@ python3 ende.py -h
 ```
 This gave:
 
-![Wrangling1](Wrangling1.png)
+![Wrangling1](Images/Wrangling1.png)
 
 Since the file I needef to decrypt is flag.txt.en, I ran this command:
 ```bash
@@ -25,7 +25,7 @@ python3 ende.py -d flag.txt.en
 ```
 When prompted for password, I entered the text from `pw.txt` file.
 
-![Wrangling2](Wrangling2.png)
+![Wrangling2](Images/Wrangling2.png)
 
 This gave the decrypted flag.
 
