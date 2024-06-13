@@ -26,7 +26,7 @@ This gave:
 
 So, I passed it a `-h`:
 ```bash
-./warm h
+./warm -h
 ```
 
 ![warm3](warm3.png)
