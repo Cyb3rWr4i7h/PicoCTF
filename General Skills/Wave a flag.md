@@ -22,14 +22,14 @@ Then I ran this file:
 ```
 This gave:
 
-![warm2](warm2.png)
+![warm2](Images/warm2.png)
 
 So, I passed it a `-h`:
 ```bash
 ./warm -h
 ```
 
-![warm3](warm3.png)
+![warm3](Images/warm3.png)
 
 Here I got the flag.
 
